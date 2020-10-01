@@ -50,7 +50,7 @@ Random Forest was the winner with a training accuracy of 70 % and test accuracy 
 
 3. We could ensemble that is we could try stacking more models together to improve the accuracy.
 
-## Citing
+## Citing...
 
 ```
 @misc{Abhinav:2019,
